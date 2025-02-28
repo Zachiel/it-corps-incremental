@@ -1,3 +1,6 @@
+Note: project start 28/02/2025 20:00
+Let's see how long it takes to get hired :).
+
 # Next.js App Router Playground
 
 Next.js recently introduced the App Router with support for:
